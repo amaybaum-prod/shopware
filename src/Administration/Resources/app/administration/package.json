@@ -82,7 +82,7 @@
     "optimize-css-assets-webpack-plugin": "5.0.8",
     "optional-chaining-codemod": "1.7.0",
     "postcss": "8.4.20",
-    "puppeteer": "13.7.0",
+    "puppeteer": "19.9.1",
     "stylelint-junit-formatter": "0.2.2",
     "terser-webpack-plugin": "4.2.3",
     "ts-jest": "29.0.3",
